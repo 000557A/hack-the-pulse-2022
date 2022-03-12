@@ -8,7 +8,6 @@
 
 body {
 	background-image: url("https://velvetescape.com/wp-content/uploads/2012/03/IMG_2775-1280x920.jpeg");
-
 }
 
 
@@ -25,7 +24,7 @@ body {
 header {
 	background:rgb(65, 159, 221);
 	margin:-10px;
-	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-family:'Hubballi', sans-serif;
 }
 
 header::after {
@@ -89,7 +88,7 @@ nav a:hover{
 
 .paraun {
 	border:9px;
-	font-family:Verdana;
+	font-family:'Hubballi', sans-serif;
 	border-color:#0077ff;
 	color: #ffffff;
 	border-style:ridge;
@@ -102,7 +101,7 @@ nav a:hover{
 
 .para4 {
 	border:9px;
-	font-family:Verdana;
+	font-family:'Hubballi', sans-serif;
 	border-color:#ff0000a6;
 	color: #000000;
 	border-style: double;
@@ -116,7 +115,7 @@ nav a:hover{
 .body3 {
 	border:9px;
 	border-color: rgb(0, 217, 255);
-	font-family:Verdana;
+	font-family:'Hubballi', sans-serif;
 	color:#000000;
 	border-style:double;
 	padding:10px;
@@ -131,7 +130,7 @@ nav a:hover{
 }
 
 .credits{
-	font-family: Verdana;
+	font-family:'Hubballi', sans-serif;
 	font-size: 15px;
 	text-align: center;
 	Position:absolute;
