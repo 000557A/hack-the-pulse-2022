@@ -129,3 +129,9 @@ nav a:hover{
 .logo{
 	text-decoration: none;
 }
+
+.credits{
+	font-family: Verdana;
+	font-size: 15px;
+	text-align: center;
+}
