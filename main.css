@@ -6,12 +6,12 @@
   }
   
   
-  .logo1 {
+  .logo {
     float: left;
     margin-left: 10px;
-    color: #F6F6F8;
+    color: black;
     font-family: 'Crimson Text', sans-serif;
-    font-size: 43px;
+    font-size: 30px;
   }
   
 
@@ -22,7 +22,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #090A0A;
+    background-color: #090A0A/*fix*/;
     font-family: 'Crimson Text', sans-serif;
   }
   
@@ -31,7 +31,7 @@
     display: inline-block;
     margin-left: 0px;
     padding-top: 0px;
-    color: white;
+    color: black;
     text-transform: uppercase;
     font-size: 12px;
   }
@@ -44,4 +44,4 @@
   .active {
     background-color: #808080;
   }
-  
+/*done with nav bar
