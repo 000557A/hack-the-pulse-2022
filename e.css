@@ -1,0 +1,156 @@
+
+
+
+.fortnite{
+	border-style:ridge;
+	border-color:red;
+}
+
+body {
+	background-image: url("https://velvetescape.com/wp-content/uploads/2012/03/IMG_2775-1280x920.jpeg");
+
+}
+
+
+
+.test {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:90%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.csgif {
+	position: absolute;
+	top: 1120px;
+	right: 100px;
+}
+
+
+
+
+
+
+
+
+header {
+	background:rgb(65, 159, 221);
+	margin:-10px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header::after {
+	content: '';
+	display:table;
+	clear:both;
+}
+
+
+
+.navbar {
+	width:80%;
+	margin: 0 auto;
+	float:right;
+}
+
+
+
+.logo{
+	float:left;
+}
+
+
+nav ul{
+	margin:0px;
+	padding:0px;
+	list-style:none;
+
+}
+
+
+
+nav li{
+	display:inline-block;
+	margin-left: 50px;
+	padding-top:25px;
+
+}
+
+
+nav a {
+	color:rgb(255, 255, 255);
+	font-size:20px;
+	text-decoration: none;
+}
+
+
+nav a:hover{
+	color:rgb(82, 72, 68);
+	float: right;
+}
+
+
+
+
+
+
+
+
+
+.paraun {
+	border:9px;
+	font-family:Verdana;
+	border-color:#0077ff;
+	color: #ffffff;
+	border-style:ridge;
+	float:left;
+	font-size: 20px;
+	width:700px;
+	padding:40px;
+	background-color: #000000;
+}
+
+.para4 {
+	border:9px;
+	font-family:Verdana;
+	border-color:#ff0000a6;
+	color: #000000;
+	border-style: double;
+	float:right	;
+	font-size: 20px;
+	width:700px;
+	background-color: #ff53044b;
+}
+
+.body3 {
+	border:9px;
+	border-color: rgb(0, 217, 255);
+	font-family:Verdana;
+	color:#000000;
+	border-style:double;
+	padding:40px;
+	float: right;
+	font-size: 15px;
+	background-color: #29a1e77a;
+	width:700px;
+}
+
