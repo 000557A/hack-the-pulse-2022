@@ -1,1 +1,47 @@
 
+.container1 {
+    width: 100%;
+    margin: 0 auto;
+    font-size: 28px;
+  }
+  
+  
+  .logo1 {
+    float: left;
+    margin-left: 10px;
+    color: #F6F6F8;
+    font-family: 'Crimson Text', sans-serif;
+    font-size: 43px;
+  }
+  
+
+  
+  .navbar {
+    list-style-type: none;
+    top: 0;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #090A0A;
+    font-family: 'Crimson Text', sans-serif;
+  }
+  
+  
+  .navli {
+    display: inline-block;
+    margin-left: 0px;
+    padding-top: 0px;
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
+  
+  .navli:hover {
+    transform: scale(1.04);
+  }
+
+  
+  .active {
+    background-color: #808080;
+  }
+  
