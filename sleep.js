@@ -36,6 +36,6 @@ function calculateSleep() {
 
     else {
   
-       result.innerHTML = "You need to input a proper value for age."
+       result.innerHTML = "You need to input a proper value for age. Please enter a proper value."
     }
 }
