@@ -7,6 +7,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Hubballi&display=swap" rel="stylesheet">
+        <script src = "bmi.js"></script>
     </head>
 
     
@@ -33,16 +34,17 @@
 
 
         <div class=bmicalc>
-            <div class="bmi">
+            <div class="container">
                 <h1>BMI Calculator</h1>
 
                 <p>Please input your HEIGHT in centimeters/cm: </p>
-                <input type="text" id="height-bmi">
+                <input type="text" id="height">
 
                 <p>Please input your WEIGHT in kilograms/kg: </p>
-                <input type="text" id="height-bmi">
+                <input type="text" id="weight">
                 <br><br>
-                <button id="calculate-button">Results</button>
+                <button id="btn">Results</button>
+                <div id="result"></div>
             </div>
         </div>
 
