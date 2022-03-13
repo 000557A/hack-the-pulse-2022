@@ -10,7 +10,6 @@ function calculateBMI() {
     
     let height = parseInt(document
             .querySelector("#height").value);
-  
     
     let weight = parseInt(document
             .querySelector("#weight").value);
@@ -27,10 +26,8 @@ function calculateBMI() {
     
     else {
   
-        
         let bmi = (weight / ((height * height) 
                             / 10000)).toFixed(2);
-  
         
         if (bmi < 18.6) result.innerHTML =
             `Under Weight : <span>${bmi}</span>`;
