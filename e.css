@@ -163,4 +163,14 @@ nav a:hover{
 }
 
 
+.headbmi{
+	font-family: 'Hubballi', sans-serif;
+	text-align: center;
+	font-size: 26px;
+}
 
+.pbmi{
+	font-family: 'Hubballi', sans-serif;
+	text-align: center;
+	font-size: 20px;
+}
