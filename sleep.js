@@ -31,7 +31,7 @@ function calculateSleep() {
     if (age >= 61, age <= 64) 
         result.innerHTML = "You need 7-9 hours of sleep every day.";
 
-    if (age >= 65) 
+    if (age = 65) 
         result.innerHTML = "You need 7-9 hours of sleep every day.";
 
         else {
