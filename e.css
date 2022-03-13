@@ -143,8 +143,8 @@ nav a:hover{
 	padding: 10px;
 	font-size: 25px;
 	background-color: #29a1e77a;
-
 	text-align: center;
+	float:center;
 }
 
 
