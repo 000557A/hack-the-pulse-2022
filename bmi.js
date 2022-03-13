@@ -18,10 +18,10 @@ function calculateBMI() {
     let result = document.querySelector("#result");
   
     
-    if (height === "" || isNaN(height)) 
+    if (height == "" || isNaN(height)) 
         result.innerHTML = "Provide a valid Height!";
   
-    else if (weight === "" || isNaN(weight)) 
+    else if (weight == "" || isNaN(weight)) 
         result.innerHTML = "Provide a valid Weight!";
   
     
